@@ -3,12 +3,15 @@
 1. Create New EC2 using AWS Linux 2 AMI 
 
 - to make sure that you are using the right AMI 
+
 ```$ cat /etc/system-release```
 
 2. Install Apache 
 
 ```$ sudo yum update -y ```
+
 ```$ sudo yum install -y httpd ```
+
 ```$ sudo amazon-linux-extras install -y php7.2 ```
 ## Start the Apache web server
 ```$ sudo systemctl start httpd```
