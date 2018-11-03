@@ -3,7 +3,7 @@
 1. Create New EC2 using AWS Linux 2 AMI 
 
 - to make sure that you are using the right AMI 
-# cat /etc/system-release
+'''# cat /etc/system-release'''
 
 2. Install Apache 
 
