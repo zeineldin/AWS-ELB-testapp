@@ -23,7 +23,9 @@
 - login again and run 
 
 ```$ sudo service httpd start ```
+
 ```$ sudo chkconfig httpd on ```
+
 ```$ sudo usermod -a -G apache ec2-user ```
 
 - then edit the file  /etc/httpd/conf/httpd.conf
