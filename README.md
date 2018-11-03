@@ -36,6 +36,6 @@
 
 - copy the index.php in the Document roor location 
 
-```$  p index.php /var/www/html/ ```
+```$  cp index.php /var/www/html/ ```
 
 refrence : https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-lamp-amazon-linux-2.html
