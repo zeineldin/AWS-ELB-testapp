@@ -30,7 +30,7 @@
 
 - then edit the file  /etc/httpd/conf/httpd.conf
 
-and add index.php in the following location "DirectoryIndex index.php index.html"
+-  add index.php in the following location "DirectoryIndex index.php index.html"
 
 - copy the index.php in the Document roor location 
 
