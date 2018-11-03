@@ -13,10 +13,12 @@
 ```$ sudo yum install -y httpd ```
 
 ```$ sudo amazon-linux-extras install -y php7.2 ```
-## Start the Apache web server
+
+# Start the Apache web server
+
 ```$ sudo systemctl start httpd```
 
-##You can verify that httpd is on by running the following command:
+#You can verify that httpd is on by running the following command:
 ```$ sudo systemctl enable httpd ```
 ```$ exit ``` 
 
@@ -36,4 +38,4 @@
 
 ```$  p index.php /var/www/html/ ```
 
-## refrence : https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-lamp-amazon-linux-2.html
+# refrence : https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-lamp-amazon-linux-2.html
