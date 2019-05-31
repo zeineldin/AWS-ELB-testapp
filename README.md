@@ -19,10 +19,10 @@
 ```$ sudo systemctl start httpd```
 
 #You can verify that httpd is on by running the following command:
-```$ sudo systemctl enable httpd ```
-```$ exit ``` 
 
-- login again and run 
+```$ sudo systemctl enable httpd ```
+
+
 
 ```$ sudo service httpd start ```
 
